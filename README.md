@@ -1,1 +1,2 @@
-# Minor_project_sem5
+# OSS LAB PROJECT 
+# StockStream - Visualize Analyze Predict
